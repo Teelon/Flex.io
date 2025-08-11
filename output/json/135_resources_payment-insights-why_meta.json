@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/resources/payment-insights-why-fraud-teams-must-address-failed-payments/",
+  "filename": "135_resources_payment-insights-why.md",
+  "title": "Payment Insights: Why Fraud Teams Must Address Failed Payments",
+  "summary": "This article highlights how merchant fraud teams, typically focused on fraud prevention and chargebacks, often overlook the significant revenue losses caused by false declines. It argues that expanding their scope to include failed payment recovery solutions can mitigate these losses and reduce involuntary churn for recurring revenue businesses.",
+  "content_type": "other",
+  "importance_score": 8,
+  "key_points": [
+    "False declines (legitimate transactions being declined) cause significant revenue loss and involuntary churn.",
+    "Merchant fraud teams are well-positioned to manage failed payment recovery due to their existing payment expertise.",
+    "Integrating failed payment recovery solutions can dramatically strengthen a subscription business's bottom line.",
+    "The article provides a calculator to estimate potential revenue and customer growth from FlexPay's Invisible Recovery."
+  ]
+}

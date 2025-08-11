@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/blog/gateway-response-codes-part-i/",
+  "filename": "166_blog_gateway-response-codes-pa.md",
+  "title": "Gateway Response Codes \u2013 Part I: How They Work",
+  "summary": "This article explains the complexity of gateway response codes in payment processing. It highlights how different banks and gateways map these codes, leading to inconsistencies and challenges in handling transaction outcomes.",
+  "content_type": "documentation",
+  "importance_score": 7,
+  "key_points": [
+    "Gateway response codes indicate transaction approval or decline and guide retry actions.",
+    "Handling response codes is difficult due to the need to map various bank codes into unified gateway codes.",
+    "Using multiple gateways exacerbates the problem, as codes can have different meanings or behaviors.",
+    "While standards like ISO 8583 exist, their implementation and interpretation vary, leading to inconsistencies."
+  ]
+}

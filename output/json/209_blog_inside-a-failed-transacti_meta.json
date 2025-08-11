@@ -1,0 +1,15 @@
+{
+  "url": "https://flexpay.io/blog/inside-a-failed-transaction-why-they-happen-and-how-you-can-prevent-them/",
+  "filename": "209_blog_inside-a-failed-transacti.md",
+  "title": "Inside a Failed Transaction: Why They Happen and How You Can Prevent Them",
+  "summary": "This article delves into the reasons behind failed payment transactions for subscription and SaaS businesses. It explains the complex chain of players involved in processing a payment and highlights how to prevent declines and increase successful transactions, emphasizing the importance of reducing preventable payment failures for business growth.",
+  "content_type": "other",
+  "importance_score": 8,
+  "key_points": [
+    "Failed transactions represent lost opportunities and potential customer loss for subscription/SaaS businesses.",
+    "Understanding the payment processing chain (gateway, processor, card network, issuing bank) is crucial.",
+    "Card-Not-Present (CNP) transactions are treated as higher risk, leading to stricter fraud filters.",
+    "Preventing preventable payment failures is a key opportunity for business growth.",
+    "Small changes like correct MCC or tokenization can improve transaction success rates."
+  ]
+}

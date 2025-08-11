@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/resources/involuntary-churn-from-good-to-great/",
+  "filename": "109_resources_involuntary-churn-fr.md",
+  "title": "Involuntary Churn: From Good to Great",
+  "summary": "This page discusses involuntary churn, which accounts for up to half of all customer churn in subscription businesses due to failed payments. It highlights that while initial recovery efforts like automatic retries are good, top-performing companies achieve higher recovery rates and better retention through optimized people, processes, and technology.",
+  "content_type": "other",
+  "importance_score": 8,
+  "key_points": [
+    "Involuntary churn, caused by failed payments, can be up to 50% of total customer churn.",
+    "Typical in-house recovery solutions recover 15%-25% of failed payments.",
+    "Top-performing subscription companies optimize failed payment recovery and customer retention.",
+    "Achieving higher recovery rates requires a combination of people, process, and technology."
+  ]
+}

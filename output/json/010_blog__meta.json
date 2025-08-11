@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/blog/",
+  "filename": "010_blog_.md",
+  "title": "FlexPay Blog",
+  "summary": "The FlexPay blog offers insights into revenue and customer recovery for subscription businesses. It features articles on preventing failed payments, the limitations of standard billing platforms for recovery, and strategies for combating involuntary churn.",
+  "content_type": "other",
+  "importance_score": 7,
+  "key_points": [
+    "FlexPay offers a Revenue and Customer Recovery Calculator.",
+    "Blog posts cover failed payment prevention and recovery strategies.",
+    "Articles discuss the advantages of specialized recovery solutions over in-house or standard billing platforms.",
+    "Content includes topics like AI in fraud detection and user retention for SaaS companies."
+  ]
+}

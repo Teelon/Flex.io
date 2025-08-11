@@ -1,0 +1,25 @@
+# Core web scraping dependencies - Crawl4AI
+crawl4ai[all]>=0.3.74
+
+# Environment configuration
+python-dotenv>=1.0.0
+
+# AI enhancement
+google-generativeai>=0.8.0
+
+# Data processing and output
+pandas>=2.0.0
+beautifulsoup4>=4.12.0
+
+# Async and HTTP support
+aiohttp>=3.9.0
+asyncio-throttle>=1.0.2
+
+# Testing dependencies
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+pytest-mock>=3.10.0
+
+# Additional utilities
+tqdm>=4.65.0  # Progress bars
+click>=8.0.0  # CLI interface

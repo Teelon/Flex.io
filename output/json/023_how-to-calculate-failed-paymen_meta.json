@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/how-to-calculate-failed-payments/",
+  "filename": "023_how-to-calculate-failed-paymen.md",
+  "title": "How to Calculate Failed Payments",
+  "summary": "This page explains the concept of failed payments, which are legitimate credit card transactions falsely declined by card-issuing banks. It highlights how these failures contribute to customer churn and lost revenue for subscription businesses, often going unnoticed compared to other churn causes.",
+  "content_type": "feature",
+  "importance_score": 8,
+  "key_points": [
+    "Failed payments are legitimate transactions falsely declined by card-issuing banks.",
+    "These failures are a significant, often overlooked, cause of customer churn.",
+    "Understanding and recovering failed payments can significantly boost revenue and customer retention.",
+    "The page introduces a calculator to estimate potential revenue and customer growth from FlexPay's Invisible Recovery solution."
+  ]
+}

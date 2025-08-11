@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/blog/why-building-an-in-house-failed-payment-recovery-solution-isnt-as-easy-as-it-sounds/",
+  "filename": "206_blog_why-building-an-in-house-.md",
+  "title": "Why Building an In-House Failed Payment Recovery Solution Isn\u2019t as Easy as it Sounds",
+  "summary": "This article discusses the challenges businesses face when trying to build their own payment recovery solutions. It highlights that simple retry strategies and basic email reminders are often insufficient and can even harm a business's reputation with card issuers. Effective recovery requires advanced analytics and data-driven insights to address the complex reasons behind payment declines.",
+  "content_type": "other",
+  "importance_score": 7,
+  "key_points": [
+    "In-house payment recovery solutions are often more complex and costly than anticipated.",
+    "Simple retry strategies and basic email reminders are ineffective and can damage merchant reputation.",
+    "Understanding and acting on decline reason codes requires advanced analytics and data science.",
+    "Failed payments are a significant driver of involuntary churn for subscription businesses."
+  ]
+}

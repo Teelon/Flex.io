@@ -1,0 +1,15 @@
+{
+  "url": "https://flexpay.io/measuring-involuntary-churn/",
+  "filename": "022_measuring-involuntary-churn_.md",
+  "title": "Measuring the Costs of Involuntary Churn and Value of Recovered Customers",
+  "summary": "This page explains how to measure the costs of involuntary churn and the value of recovered customers. It provides a step-by-step guide to calculate churn rates, identify customers lost to failed payments, and estimate lost revenue and customer lifespan.",
+  "content_type": "other",
+  "importance_score": 8,
+  "key_points": [
+    "Calculate monthly churn rate by dividing monthly churned customers by active customers.",
+    "Determine monthly involuntary churn percentage by dividing customers lost to failed payments by total lost customers.",
+    "Estimate forecasted revenue losses by calculating the LTV of customers lost to failed payments.",
+    "Track customer IDs, billing amounts, and payment decline dates for failed payments.",
+    "Calculate the difference between average customer lifespan and the time of failed payment to measure lost billing months."
+  ]
+}

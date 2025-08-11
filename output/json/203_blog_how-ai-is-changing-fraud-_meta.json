@@ -1,0 +1,15 @@
+{
+  "url": "https://flexpay.io/blog/how-ai-is-changing-fraud-detection-and-payments/",
+  "filename": "203_blog_how-ai-is-changing-fraud-.md",
+  "title": "How AI is Changing Fraud Detection and Payments",
+  "summary": "Artificial intelligence (AI) is revolutionizing the payments industry by enhancing fraud detection, customer authentication, and failed payment recovery. While AI offers significant benefits like improved payment processing and smarter fraud detection, it also presents challenges as fraudsters adapt their tactics.",
+  "content_type": "other",
+  "importance_score": 8,
+  "key_points": [
+    "AI improves payment processing and approval rates.",
+    "Machine learning enables smarter, real-time fraud detection.",
+    "AI helps reduce false declines of legitimate transactions.",
+    "AI assists in recovering failed payments by analyzing reasons and optimizing retries.",
+    "Fraudsters are also leveraging AI, creating an evolving challenge."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/blog/gateway-response-codes-part-ii/",
+  "filename": "193_blog_gateway-response-codes-pa.md",
+  "title": "Gateway Response Codes \u2013 Part II: How to Handle Common Response Codes",
+  "summary": "This article, the second in a series, delves into handling common gateway response codes. It explains how to manage declines like Insufficient Funds (NSF), Generic Bank Decline, Do Not Honor, and Transaction cannot be completed, offering strategies for retrying transactions.",
+  "content_type": "documentation",
+  "importance_score": 7,
+  "key_points": [
+    "Explains how to handle common gateway response codes.",
+    "Provides strategies for retrying transactions for NSF, Generic Bank Decline, and Do Not Honor.",
+    "Discusses the 'Transaction cannot be completed' code and its potential causes.",
+    "Recommends referring to Part I for foundational information on response codes."
+  ]
+}

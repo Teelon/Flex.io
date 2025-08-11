@@ -1,0 +1,145 @@
+{
+  "total_pages": 10,
+  "pages": [
+    {
+      "url": "https://flexpay.io/blog/tag/best-in-class/",
+      "filename": "001_blog_tag_best-in-class_.md",
+      "title": "Tag: Best in Class",
+      "summary": "This page aggregates blog posts tagged as \"Best in Class\" on the FlexPay website. It features an article discussing chargebacks and FlexPay's impact on them, along with general information about FlexPay's services for revenue and customer recovery.",
+      "content_type": "blog",
+      "importance_score": 3,
+      "key_points": [
+        "FlexPay helps subscription businesses recover failed payments.",
+        "FlexPay aims to minimize customer churn.",
+        "Chargebacks will not increase with FlexPay."
+      ]
+    },
+    {
+      "url": "https://flexpay.io/blog/tag/dating-apps/",
+      "filename": "002_blog_tag_dating-apps_.md",
+      "title": "Tag: dating apps",
+      "summary": "This page aggregates blog posts and resources related to dating apps on the FlexPay website. It highlights how FlexPay's solutions can help dating apps recover failed payments and retain subscribers. The page also provides links to related solutions and resources.",
+      "content_type": "blog",
+      "importance_score": 6,
+      "key_points": [
+        "FlexPay offers solutions for dating apps to recover failed payments.",
+        "The page features a blog post about the history of dating technology and failed payment recovery.",
+        "FlexPay helps subscription businesses accelerate revenue and profit growth.",
+        "Links to related solutions like CX and Dating are provided."
+      ]
+    },
+    {
+      "url": "https://flexpay.io/blog/tag/failed-payment-recovery/",
+      "filename": "003_blog_tag_failed-payment-re.md",
+      "title": "Tag: failed payment recovery",
+      "summary": "This page aggregates blog posts tagged with 'failed payment recovery' from FlexPay. It highlights how FlexPay helps subscription businesses recover failed payments and minimize customer churn, particularly in industries like online dating.",
+      "content_type": "blog",
+      "importance_score": 6,
+      "key_points": [
+        "Failed payment recovery solutions for subscription businesses.",
+        "Minimizing customer churn through effective payment recovery.",
+        "FlexPay's role in revenue and profit growth.",
+        "Application of failed payment recovery in the dating industry."
+      ]
+    },
+    {
+      "url": "https://flexpay.io/blog/tag/how-flexpay-works/",
+      "filename": "004_blog_tag_how-flexpay-works.md",
+      "title": "Tag: How FlexPay Works",
+      "summary": "This page aggregates blog posts related to how FlexPay works. It includes articles about recovering single-sale transactions, client expectations, how FlexPay integrates with customer service teams, interesting facts about FlexPay, and the FlexPay referral partner program.",
+      "content_type": "other",
+      "importance_score": 5,
+      "key_points": [
+        "FlexPay offers solutions for recovering failed payments.",
+        "FlexPay complements existing customer service efforts.",
+        "FlexPay integrates with various systems as middleware.",
+        "FlexPay has a referral partner program."
+      ]
+    },
+    {
+      "url": "https://flexpay.io/blog/tag/online-dating/",
+      "filename": "005_blog_tag_online-dating_.md",
+      "title": "Tag: online dating",
+      "summary": "This page aggregates blog posts tagged with 'online dating' on the FlexPay website. FlexPay offers solutions for revenue and customer recovery, particularly focusing on failed payment recovery to minimize customer churn for subscription-based businesses. The blog posts likely discuss how FlexPay's services can benefit online dating platforms.",
+      "content_type": "blog",
+      "importance_score": 6,
+      "key_points": [
+        "FlexPay helps subscription businesses recover failed payments.",
+        "FlexPay aims to minimize customer churn.",
+        "The content focuses on the application of FlexPay's services to the online dating industry.",
+        "Blog posts discuss the history and technology of online dating."
+      ]
+    },
+    {
+      "url": "https://flexpay.io/blog/tag/vs-comparisons/",
+      "filename": "006_blog_tag_vs-comparisons_.md",
+      "title": "Tag: Versus and Comparisons",
+      "summary": "This page is a tag archive for blog posts on FlexPay that compare different solutions. It includes a post comparing machine learning and rules-based approaches to failed payment recovery, and provides resources like a revenue calculator and contact information.",
+      "content_type": "blog",
+      "importance_score": 4,
+      "key_points": [
+        "Compares machine learning and rules-based failed payment recovery solutions.",
+        "Offers a revenue and customer recovery calculator.",
+        "Provides access to FlexPay's blog and other resources."
+      ]
+    },
+    {
+      "url": "https://flexpay.io/",
+      "filename": "007_homepage.md",
+      "title": "FlexPay Revenue and Customer Recovery Calculator",
+      "summary": "FlexPay helps subscription businesses recover failed payments, reduce churn, and increase customer lifetime value. The page features a calculator to estimate potential revenue and customer growth through FlexPay's Invisible Recovery solution. It also highlights the importance of retention and provides resources for optimizing subscription business performance.",
+      "content_type": "product",
+      "importance_score": 9,
+      "key_points": [
+        "Failed Payment Recovery for Subscription Businesses",
+        "Revenue and Customer Recovery Calculator",
+        "Reduce involuntary churn and increase LTV",
+        "Invisible Recovery solution"
+      ]
+    },
+    {
+      "url": "https://flexpay.io/resource/",
+      "filename": "008_resource_.md",
+      "title": "Resources",
+      "summary": "This page serves as a hub for various resources related to FlexPay, including a revenue and customer recovery calculator, blog, customer support, event calendar, and company information. It also provides access to product information, solutions for different industries, and documentation.",
+      "content_type": "other",
+      "importance_score": 7,
+      "key_points": [
+        "Revenue and Customer Recovery Calculator",
+        "Links to product information and solutions",
+        "Access to customer support and documentation",
+        "Company information and news"
+      ]
+    },
+    {
+      "url": "https://flexpay.io/revenue-calculator/",
+      "filename": "009_revenue-calculator_.md",
+      "title": "FlexPay Revenue and Customer Recovery Calculator",
+      "summary": "This page provides a revenue and customer recovery calculator to estimate the potential benefits of using FlexPay's Invisible Recovery solution. It allows users to input their current business metrics and compare revenue and customer growth forecasts with and without FlexPay. The calculator highlights the potential for increased revenue, customer retention, and overall growth by recovering failed payments.",
+      "content_type": "feature",
+      "importance_score": 7,
+      "key_points": [
+        "Calculate potential revenue and customer growth with FlexPay Invisible Recovery.",
+        "Compare revenue forecasts with and without FlexPay.",
+        "Recover up to 70% of failed payments.",
+        "Faster recovery means revenue recovered in just 2.6 days vs other recovery methods that take 30 days",
+        "AI-powered solution creates individual recovery strategies for each failed payment"
+      ]
+    },
+    {
+      "url": "https://flexpay.io/blog/",
+      "filename": "010_blog_.md",
+      "title": "FlexPay Blog",
+      "summary": "The FlexPay blog features articles related to payment recovery, fraud prevention, and customer retention strategies for subscription businesses. It provides insights into failed transactions, billing platforms, and the importance of specialized recovery solutions. The blog also covers topics like AI in fraud detection and user retention strategies for SaaS companies.",
+      "content_type": "blog",
+      "importance_score": 7,
+      "key_points": [
+        "Failed payment recovery strategies",
+        "Fraud prevention techniques",
+        "Customer retention best practices",
+        "Subscription business insights",
+        "AI in fraud detection"
+      ]
+    }
+  ]
+}

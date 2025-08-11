@@ -1,0 +1,15 @@
+{
+  "url": "https://flexpay.io/blog/using-artificial-intelligence-to-solve-the-problem-of-failed-payments/",
+  "filename": "184_blog_using-artificial-intellig.md",
+  "title": "Using Artificial Intelligence to Solve the Problem of Failed Payments",
+  "summary": "This article explains how Artificial Intelligence (AI) can effectively solve the problem of failed payments by silently evaluating transactions against numerous failure reasons. It highlights that AI-driven recovery preserves customer relationships and avoids churn, unlike traditional methods that can damage merchant accounts and increase fees.",
+  "content_type": "feature",
+  "importance_score": 8,
+  "key_points": [
+    "AI is the best solution for failed payments, acting silently to resolve issues.",
+    "Failed payment recovery is about recovering customers, not just transactions.",
+    "Minimizing customer interactions during recovery reduces churn.",
+    "Multiple payment resubmission attempts damage merchant accounts and increase fees.",
+    "AI handles the complexity of thousands of card-issuing banks and their unique algorithms."
+  ]
+}

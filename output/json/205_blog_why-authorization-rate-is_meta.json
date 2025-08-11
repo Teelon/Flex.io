@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/blog/why-authorization-rate-isnt-enough/",
+  "filename": "205_blog_why-authorization-rate-is.md",
+  "title": "Why Authorization Rate Isn\u2019t Enough: A Smarter Way to Measure Payment Success",
+  "summary": "This article argues that the traditional authorization rate is an insufficient metric for subscription businesses. It explains that retries for failed payments artificially lower the authorization rate, even when successful. The article introduces Payment Success Rate (Revenue from Successful Payments / Total Attempted Billings) as a more accurate measure for subscription payment performance.",
+  "content_type": "other",
+  "importance_score": 8,
+  "key_points": [
+    "Authorization rate is a misleading metric for subscription businesses due to failed payment retries.",
+    "Retries lower the authorization rate even when payments are successfully recovered.",
+    "Payment Success Rate (Revenue from Successful Payments / Total Attempted Billings) is a more accurate metric.",
+    "Subscription businesses need a better metric than authorization rate to make strategic decisions."
+  ]
+}

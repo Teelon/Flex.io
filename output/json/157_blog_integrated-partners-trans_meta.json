@@ -1,0 +1,15 @@
+{
+  "url": "https://flexpay.io/blog/integrated-partners-transaction-set-up/",
+  "filename": "157_blog_integrated-partners-trans.md",
+  "title": "Integrated Partners: Transaction Set-Up",
+  "summary": "This page outlines two methods for integrated partners to set up FlexPay's declined transaction recovery system. Option 1 involves FlexPay only receiving declined transactions, while Option 2 has FlexPay process all recurring billing payments. The choice depends on the partner's existing infrastructure and routing capabilities.",
+  "content_type": "documentation",
+  "importance_score": 7,
+  "key_points": [
+    "FlexPay offers two transaction set-up options for integrated partners.",
+    "Option 1: FlexPay receives only declined transactions.",
+    "Option 2: FlexPay receives all recurring or subscription transactions.",
+    "The chosen option depends on integrated partner capabilities regarding payment gateways and routing.",
+    "FlexPay is PCI Level 1 Certified, allowing processing of all payment types."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/resources/failed-payment-recovery-solution-scorecard/",
+  "filename": "147_resources_failed-payment-recov.md",
+  "title": "Failed Payment Recovery Solution Scorecard",
+  "summary": "This page provides an interactive scorecard to help subscription businesses evaluate and compare failed payment and involuntary churn solutions. It allows users to calculate estimated additional revenue and active customer growth by inputting key business metrics.",
+  "content_type": "feature",
+  "importance_score": 8,
+  "key_points": [
+    "Interactive scorecard for comparing failed payment recovery solutions.",
+    "Calculates estimated additional 12-month revenue and active customer growth.",
+    "Allows input of metrics like monthly active accounts, billing amount, and failed payment rate.",
+    "Helps businesses assess recovery rate, churn reduction, and customer retention."
+  ]
+}

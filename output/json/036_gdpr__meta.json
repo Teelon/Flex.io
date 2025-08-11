@@ -1,0 +1,15 @@
+{
+  "url": "https://flexpay.io/gdpr/",
+  "filename": "036_gdpr_.md",
+  "title": "GDPR - FlexPay",
+  "summary": "This page outlines FlexPay's commitment to GDPR compliance, detailing their approach to data privacy and security for EU citizens. It provides information on their data processing purposes, lawful basis, consent management, and contact points for GDPR-related inquiries.",
+  "content_type": "other",
+  "importance_score": 8,
+  "key_points": [
+    "FlexPay prioritizes the privacy and security of customer data in relation to GDPR.",
+    "The company is GDPR-compliant and assists customers in building their own compliant processes.",
+    "Key GDPR contacts include Charles Weiss (VP Engineering) as the Individual in charge of GDPR and Data Protection Officer.",
+    "Data processing is for creating individualized strategies to reduce payment friction, with consent obtained via Terms of Service and opt-in.",
+    "Withdrawal of consent and opt-out options are available through the FlexPay Web App or by emailing privacy@flexpay.io."
+  ]
+}

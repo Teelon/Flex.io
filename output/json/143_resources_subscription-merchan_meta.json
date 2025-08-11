@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/resources/subscription-merchant-guide-adapting-your-payment-recovery-to-visas-new-vamp-standards/",
+  "filename": "143_resources_subscription-merchan.md",
+  "title": "Subscription Merchant Guide: Adapting Your Payment Recovery to Visa\u2019s New VAMP Standards",
+  "summary": "This guide explains Visa's new Acquirer Monitoring Program (VAMP), which unifies fraud and dispute metrics into a single VAMP Ratio and introduces an Enumeration Ratio to track card testing. It provides merchants with actionable recommendations to comply with these new standards and avoid increased risk.",
+  "content_type": "documentation",
+  "importance_score": 7,
+  "key_points": [
+    "Visa's VAMP program combines fraud and dispute monitoring into a single VAMP Ratio.",
+    "VAMP also introduces an Enumeration Ratio to monitor card testing attempts.",
+    "The guide offers actionable recommendations for merchants to adapt to these new standards.",
+    "VAMP replaces previous separate monitoring programs like VDMP and VFMP."
+  ]
+}

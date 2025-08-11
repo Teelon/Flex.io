@@ -1,0 +1,15 @@
+{
+  "url": "https://flexpay.io/resources/why-dunning-is-wrong-for-your-subscription-cx/",
+  "filename": "134_resources_why-dunning-is-wrong.md",
+  "title": "Why Dunning is Wrong for Your Subscription CX",
+  "summary": "This article explains why traditional dunning processes are detrimental to customer experience in subscription businesses. It highlights that most failed payments are due to system errors, not customer intent, and that dunning can lead to increased churn and damaged customer relationships.",
+  "content_type": "other",
+  "importance_score": 8,
+  "key_points": [
+    "Dunning is the process of demanding payment for a missed debt, often starting with reminders and escalating to stern warnings.",
+    "Most failed payments in subscription businesses are caused by payment system issues, not customer intent.",
+    "Incorrect decline decisions by card authorization systems are a major contributor to failed payments.",
+    "Dunning can negatively impact customer relationships and increase churn.",
+    "The article suggests alternative methods to dunning for recovering failed payments."
+  ]
+}

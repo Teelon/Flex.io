@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/blog/stripe-understanding-your-failed-payment-metrics/",
+  "filename": "204_blog_stripe-understanding-your.md",
+  "title": "Stripe: Understanding Your Failed Payment Metrics",
+  "summary": "This article explains how to interpret Stripe's failed payment reports and metrics, highlighting that Stripe's dashboard doesn't easily identify declined transactions. It introduces FlexPay's data science team as a solution to analyze these metrics, providing insights into decline rates, recovery rates, and forecasted uplift.",
+  "content_type": "other",
+  "importance_score": 8,
+  "key_points": [
+    "Stripe's dashboard makes it difficult to identify failed payments.",
+    "FlexPay's data science team can analyze Stripe payment data.",
+    "Key insights provided include Decline Rate, Recovery Rate of Declines, and Forecasted Uplift.",
+    "To get an accurate assessment, it's recommended to export at least six months of transaction data, excluding the current month."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/responsible-disclosure/",
+  "filename": "038_responsible-disclosure_.md",
+  "title": "Responsible Disclosure",
+  "summary": "FlexPay is committed to maintaining the security of its services and prioritizes data security. This page outlines their responsible disclosure program for security researchers, detailing rules for reporting vulnerabilities and listing out-of-scope issues.",
+  "content_type": "other",
+  "importance_score": 6,
+  "key_points": [
+    "FlexPay prioritizes data security and welcomes responsible disclosure of vulnerabilities.",
+    "Researchers must adequately describe attack scenarios, exploitability, impact, and provide reproducible steps.",
+    "Prohibited activities include accessing customer/internal data, social engineering, and disrupting services.",
+    "Out-of-scope vulnerabilities include clickjacking on non-sensitive pages and CSRF on unauthenticated forms."
+  ]
+}

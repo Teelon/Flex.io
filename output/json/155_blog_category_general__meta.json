@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/blog/category/general/",
+  "filename": "155_blog_category_general_.md",
+  "title": "FlexPay Revenue and Customer Recovery Calculator",
+  "summary": "This page features the FlexPay Revenue and Customer Recovery Calculator, designed to estimate the additional 12-month revenue and active customer growth achievable with FlexPay Invisible Recovery. It allows users to input key business metrics to forecast financial and customer growth outcomes.",
+  "content_type": "feature",
+  "importance_score": 8,
+  "key_points": [
+    "Calculate estimated 12-month revenue and customer growth with FlexPay Invisible Recovery.",
+    "Input metrics like monthly active accounts, average billing, new sales growth, failed payment rate, and customer lifecycle.",
+    "Compare recovery outcomes with no solution, current solution, and FlexPay solution.",
+    "Forecasts include cumulative revenue, company growth rate, and customer LTV."
+  ]
+}

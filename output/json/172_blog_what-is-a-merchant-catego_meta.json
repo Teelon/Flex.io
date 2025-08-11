@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/blog/what-is-a-merchant-category-code/",
+  "filename": "172_blog_what-is-a-merchant-catego.md",
+  "title": "What is a Merchant Category Code?",
+  "summary": "A Merchant Category Code (MCC) is a four-digit code assigned to businesses by credit card networks to classify the type of goods or services they offer. These codes are crucial for banks to understand transaction types, enforce regional sales restrictions, and manage company credit card usage.",
+  "content_type": "other",
+  "importance_score": 7,
+  "key_points": [
+    "MCCs are four-digit codes defined by ISO 18245:2003 to classify merchants.",
+    "MCCs help banks understand expected transaction types and identify restricted sales categories.",
+    "Company credit cards can be restricted based on MCCs.",
+    "MCCs can impact transaction processing and risk assessment."
+  ]
+}

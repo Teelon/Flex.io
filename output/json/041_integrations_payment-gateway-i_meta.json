@@ -1,0 +1,15 @@
+{
+  "url": "https://flexpay.io/integrations/payment-gateway-integrations/",
+  "filename": "041_integrations_payment-gateway-i.md",
+  "title": "Payment Gateway Integrations",
+  "summary": "FlexPay enhances payment gateway technologies to optimize transaction data, update card accounts, and improve recurring payment approvals. The platform connects to multiple gateways to recover failed payments and offers expertise in implementing 3DS2 with failed payment recovery strategies.",
+  "content_type": "product",
+  "importance_score": 8,
+  "key_points": [
+    "Harmonizes recovery efforts across all gateway technology.",
+    "Enhances gateway technologies like transaction data optimization and card account updater.",
+    "Connects to multiple gateways to recover failed payments.",
+    "Provides expertise in combining 3DS2 and failed payment recovery strategies.",
+    "Integrated with major gateways like Worldpay and USAePay."
+  ]
+}

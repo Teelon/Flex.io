@@ -1,0 +1,15 @@
+{
+  "url": "https://flexpay.io/news/flexpay-orderlogix-integration/",
+  "filename": "059_news_flexpay-orderlogix-integr.md",
+  "title": "FlexPay Announces OrderLogix Integration",
+  "summary": "FlexPay has integrated with OrderLogix, a leading provider of Order Management Solutions. This integration aims to significantly increase the recovery of declined credit card payments for OrderLogix clients by leveraging FlexPay's machine learning and business intelligence capabilities. FlexPay can recover between 30% and 50% of falsely declined transactions, representing billions in lost business.",
+  "content_type": "feature",
+  "importance_score": 7,
+  "key_points": [
+    "FlexPay integrates with OrderLogix for enhanced payment recovery.",
+    "FlexPay uses machine learning to recover declined credit card payments.",
+    "The integration aims to improve client financial success by salvaging declined transactions.",
+    "FlexPay can recover 30-50% of falsely declined transactions.",
+    "FlexPay utilizes over 70 data points to optimize transaction processing."
+  ]
+}

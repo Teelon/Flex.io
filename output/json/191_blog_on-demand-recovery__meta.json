@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/blog/on-demand-recovery/",
+  "filename": "191_blog_on-demand-recovery_.md",
+  "title": "On-Demand Recovery",
+  "summary": "FlexPay's On-Demand Recovery allows businesses to test their failed payment recovery solution by sharing a file of declined transactions. This offers a way to recover revenue quickly while integrating with FlexPay's API, demonstrating the power of their machine learning engine without immediate integration commitment.",
+  "content_type": "feature",
+  "importance_score": 7,
+  "key_points": [
+    "Test FlexPay's recovery solution without a full API integration.",
+    "Recover revenue immediately by processing a file of declined transactions.",
+    "Leverages FlexPay's machine learning engine for recovery.",
+    "Helps bridge the gap while waiting for full integration development."
+  ]
+}

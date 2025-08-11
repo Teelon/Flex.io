@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/blog/machine-learning-failed-payment-recovery-vs-rules-based-recovery/",
+  "filename": "201_blog_machine-learning-failed-p.md",
+  "title": "Failed Payment Recovery Solutions: Machine Learning Recovery vs. Rules-Based Retries",
+  "summary": "This article compares machine learning-driven failed payment recovery with rules-based systems. It argues that AI informed by machine learning is the superior approach for recovering declined credit card transactions by intelligently deciding on retry timing and transaction adjustments.",
+  "content_type": "other",
+  "importance_score": 8,
+  "key_points": [
+    "Machine learning-driven payment recovery is presented as superior to rules-based systems.",
+    "AI in payment recovery makes optimal decisions on retry timing and transaction adjustments.",
+    "The article clarifies terms like AI, machine learning, and rules-based systems in the context of payment recovery.",
+    "FlexPay advocates for automated failed payment recovery powered by AI and machine learning."
+  ]
+}

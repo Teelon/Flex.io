@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/news/flexpay-and-chargify/",
+  "filename": "067_news_flexpay-and-chargify_.md",
+  "title": "FlexPay Announces Integration with Chargify to Maximize Revenue Recovery for B2B SaaS Industry",
+  "summary": "FlexPay has partnered with Chargify, a billing and subscription management platform, to help B2B SaaS companies recover declined and failed transactions. This integration allows Chargify clients to leverage FlexPay's AI-driven recovery engine for higher approval rates and improved customer lifetime value.",
+  "content_type": "feature",
+  "importance_score": 8,
+  "key_points": [
+    "FlexPay integrates with Chargify to recover declined payments for B2B SaaS companies.",
+    "The integration uses FlexPay's AI-driven recovery engine for optimal retry strategies.",
+    "This partnership aims to increase approval rates and customer lifetime value.",
+    "FlexPay offers a pay-for-performance pricing model, meaning merchants only pay on recovery lift."
+  ]
+}

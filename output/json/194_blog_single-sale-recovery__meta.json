@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/blog/single-sale-recovery/",
+  "filename": "194_blog_single-sale-recovery_.md",
+  "title": "How it Works: Recovering Single Sale Transactions",
+  "summary": "This page explains how FlexPay's Invisible Recovery can help businesses recover single sale transactions that were initially declined. It highlights the significant impact of declined transactions on acquisition costs and net income, and offers strategies for recovery.",
+  "content_type": "feature",
+  "importance_score": 8,
+  "key_points": [
+    "FlexPay offers a recovery engine for single sale, non-recurring transactions.",
+    "Declined transactions can significantly inflate acquisition costs and lower profit margins.",
+    "Strategies for recovery include delaying fulfillment until approval.",
+    "The page also links to resources on improving credit card approval rates."
+  ]
+}

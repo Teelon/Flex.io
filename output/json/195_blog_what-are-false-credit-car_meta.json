@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/blog/what-are-false-credit-card-declines/",
+  "filename": "195_blog_what-are-false-credit-car.md",
+  "title": "What Are False Credit Card Declines?",
+  "summary": "False declines occur when valid credit card transactions are mistakenly rejected, preventing customers from making purchases. These mischaracterizations can significantly impact revenue, with estimates suggesting a high percentage of flagged transactions are actually legitimate. Understanding the decision-making process involving issuer processors and issuers is crucial for addressing these declines.",
+  "content_type": "other",
+  "importance_score": 7,
+  "key_points": [
+    "False declines are valid transactions mistakenly rejected by banks.",
+    "An estimated 94% of transactions identified as fraudulent are mischaracterized.",
+    "Issuer processors play a key role in transaction approval/denial decisions using rules-based algorithms.",
+    "Distinction between hard declines (e.g., lost card) and soft declines (e.g., insufficient space) is important for recovery strategies."
+  ]
+}

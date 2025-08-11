@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/integrations/",
+  "filename": "053_integrations_.md",
+  "title": "Integrations",
+  "summary": "FlexPay offers powerful strategies to integrate with your existing payment systems, enhancing failed payment recovery and customer retention. By working with your CRM and payment gateways, FlexPay maximizes authorization performance and recovers revenue that simple retry technology cannot achieve.",
+  "content_type": "feature",
+  "importance_score": 8,
+  "key_points": [
+    "Integrates with CRMs and payment gateways to improve failed payment recovery.",
+    "Enhances customer retention by maximizing customer lifetime value.",
+    "Utilizes AI-powered strategies for failed payment recovery, outperforming simple retry technology.",
+    "Offers solutions for various industries including SaaS, Subscription Boxes, and Gaming."
+  ]
+}

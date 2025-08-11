@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/pci-compliance/",
+  "filename": "048_pci-compliance_.md",
+  "title": "PCI Compliance",
+  "summary": "FlexPay is a Service Provider that maintains strict Level 1 PCI Compliance, reviewed and certified annually by a Qualified Security Assessor (QSA). This ensures adherence to data security best practices to minimize the risk of data breaches and protect cardholder data. The page also highlights FlexPay's Invisible Recovery solution for subscription businesses to recover failed payments and reduce churn.",
+  "content_type": "documentation",
+  "importance_score": 7,
+  "key_points": [
+    "FlexPay maintains Level 1 PCI Compliance, certified annually.",
+    "Adheres to data security best practices to prevent data breaches.",
+    "Offers Invisible Recovery solution to recover failed payments and reduce churn for subscription businesses.",
+    "Provides Attestation of Compliance (AOC) issued by a QSA."
+  ]
+}

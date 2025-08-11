@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/blog/updated-mastercard-merchant-standards-for-subscription-billing-merchants-effective-september-22-2022/",
+  "filename": "171_blog_updated-mastercard-mercha.md",
+  "title": "Updated Mastercard Merchant Standards for Subscription Billing Merchants Effective September 22, 2022",
+  "summary": "This page outlines the updated Mastercard merchant standards for subscription billing merchants, effective September 22, 2022. Key requirements include clear disclosure of subscription terms, pricing, and billing frequency at the time of card credential collection, and capturing cardholder acceptance before order completion.",
+  "content_type": "documentation",
+  "importance_score": 8,
+  "key_points": [
+    "Merchants must disclose subscription terms, price, and billing frequency when requesting card credentials.",
+    "Negative option billing requires disclosure of trial terms, initial charges, trial length, and subsequent subscription pricing/frequency.",
+    "E-commerce merchants must clearly display subscription terms on payment and order summary pages.",
+    "Cardholder acceptance of subscription terms must be captured before completing the order."
+  ]
+}

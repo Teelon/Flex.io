@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/blog/understanding-declines-and-failed-payments/",
+  "filename": "199_blog_understanding-declines-an.md",
+  "title": "Understanding Declines and Failed Payments",
+  "summary": "This article explains why failed payments are a significant problem for subscription businesses, attributing them to an outdated payment system not designed for recurring transactions. It highlights that the system's cautious nature leads to many legitimate transactions being declined, impacting customer retention and revenue.",
+  "content_type": "other",
+  "importance_score": 8,
+  "key_points": [
+    "Failed payments are a major issue for subscription businesses.",
+    "The current payment system is outdated and not suited for recurring payments.",
+    "The system's over-cautiousness leads to many legitimate transactions being declined.",
+    "Understanding declines is crucial for customer retention and revenue recovery."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/resources/beyond-authorization-rates-a-smarter-way-to-measure-payment-performance/",
+  "filename": "149_resources_beyond-authorization.md",
+  "title": "Beyond Authorization Rates: A Smarter Way to Measure Payment Performance",
+  "summary": "This report argues that focusing solely on credit card authorization rates provides an incomplete view of payment performance for eCommerce and subscription companies. It introduces the Payment Success Rate as a more accurate metric for capturing revenue, especially for businesses dealing with recurring billing failures.",
+  "content_type": "other",
+  "importance_score": 8,
+  "key_points": [
+    "Authorization rates are a limited metric for payment performance.",
+    "Payment Success Rate is a more accurate measure of captured revenue.",
+    "Recurring billing failures are a significant challenge for subscription companies.",
+    "The report aims to educate businesses on optimizing revenue beyond simple authorization rates."
+  ]
+}

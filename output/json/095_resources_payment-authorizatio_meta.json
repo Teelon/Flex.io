@@ -1,0 +1,15 @@
+{
+  "url": "https://flexpay.io/resources/payment-authorization-management/",
+  "filename": "095_resources_payment-authorizatio.md",
+  "title": "Payment Authorization Management",
+  "summary": "This page discusses Payment Authorization Management, focusing on how technology, expertise, data, and processes can improve transaction approval accuracy and increase legitimate sales. It highlights the challenges faced by the current authorization ecosystem, including an explosion of digital transactions, new business models, and evolving fraud threats.",
+  "content_type": "feature",
+  "importance_score": 7,
+  "key_points": [
+    "Improves payment authorization decision accuracy.",
+    "Increases the volume of legitimate transactions.",
+    "Addresses challenges like increased digital transactions and evolving fraud threats.",
+    "Explains the three key stakeholders in the card payments authorization ecosystem.",
+    "Discusses structural limitations in the payments authorization ecosystem."
+  ]
+}

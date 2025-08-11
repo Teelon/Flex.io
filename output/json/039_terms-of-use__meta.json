@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/terms-of-use/",
+  "filename": "039_terms-of-use_.md",
+  "title": "Terms of Use",
+  "summary": "This document outlines the Terms of Use for the FlexPay Platform and Service. It details user obligations, FlexPay's rights regarding user data, and the agreement's applicability and modification procedures. By using the platform, users agree to be bound by these terms.",
+  "content_type": "documentation",
+  "importance_score": 6,
+  "key_points": [
+    "Users agree to be bound by the Terms of Use by using the FlexPay Platform.",
+    "FlexPay may modify the agreement, with notifications posted on the website or sent via email.",
+    "FlexPay is granted a license to use user billing data for service fulfillment and is PCI compliant.",
+    "The agreement specifies a nonexclusive right to use the Service subject to terms and restrictions."
+  ]
+}

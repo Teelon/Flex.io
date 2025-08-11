@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/blog/understanding-what-it-means-to-be-a-high-risk-merchant/",
+  "filename": "197_blog_understanding-what-it-mea.md",
+  "title": "Understanding What it Means to be a High-Risk Merchant",
+  "summary": "This article explains what it means to be classified as a high-risk merchant by a payment service provider. It details common reasons for this classification, such as card-not-present transactions, specific business verticals, high transaction volumes, or new businesses without a proven track record, and discusses how payment processors mitigate these risks.",
+  "content_type": "other",
+  "importance_score": 8,
+  "key_points": [
+    "High-risk merchants face greater scrutiny due to increased likelihood of chargebacks or fraud.",
+    "Card-not-present transactions and certain industries (e.g., adult products) are common reasons for high-risk classification.",
+    "Other risk factors include high transaction volume, high average order value, international payments from specific countries, and new businesses.",
+    "Payment processors implement measures to offset risk for high-risk merchants."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "url": "https://flexpay.io/blog/how-does-my-mcc-impact-my-business/",
+  "filename": "168_blog_how-does-my-mcc-impact-my.md",
+  "title": "How the Merchant Category Code Impacts Your Business",
+  "summary": "This article explains how a Merchant Category Code (MCC) assigned during merchant account setup significantly impacts a business. The MCC determines transaction processing pricing and the risk profile of an account, influencing chargebacks and customer complaints.",
+  "content_type": "other",
+  "importance_score": 7,
+  "key_points": [
+    "MCCs are four-digit codes that identify a merchant's business type within the payment ecosystem.",
+    "MCCs directly influence the interchange discount (processing fees) charged for card transactions.",
+    "MCCs contribute to the risk profile of a merchant account, affecting the likelihood of customer complaints, refunds, and chargebacks.",
+    "Some large or unique businesses may be assigned their own specific MCCs.",
+    "Card issuers and processors use MCCs to flag and block certain types of transactions."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/how-to-optimize-subscription-revenue/",
+  "filename": "019_how-to-optimize-subscription-r.md",
+  "title": "How to Optimize Subscription Revenue",
+  "summary": "This page explains how to optimize subscription revenue by recovering failed payments and reducing customer churn. It highlights that failed payments are a significant cause of churn, often due to issuing banks declining legitimate transactions to combat fraud. FlexPay offers solutions to recover these payments effectively while minimizing indirect churn.",
+  "content_type": "feature",
+  "importance_score": 8,
+  "key_points": [
+    "Failed payments cause significant customer churn, up to 48% of subscription churn.",
+    "Issuing banks decline legitimate transactions to combat fraud, leading to false declines.",
+    "Awareness of payment failures can also drive customers to cancel subscriptions.",
+    "FlexPay's Invisible Recovery aims to recover failed payments and reduce churn."
+  ]
+}

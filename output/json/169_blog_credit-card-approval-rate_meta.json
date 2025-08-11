@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/blog/credit-card-approval-rate-by-state/",
+  "filename": "169_blog_credit-card-approval-rate.md",
+  "title": "Credit Card Approvals Rates Vary by State",
+  "summary": "This article explores how the geographic location of both merchants and customers can significantly impact credit card transaction approval rates. A survey of over one billion transactions revealed that state-level variations exist, with geography being a factor in determining transaction risk scores and leading to false declines.",
+  "content_type": "other",
+  "importance_score": 7,
+  "key_points": [
+    "Credit card approval rates vary by state.",
+    "Geography of merchant and consumer impacts transaction approval.",
+    "False declines are common and can be recovered.",
+    "Over one billion transactions were analyzed to determine these findings."
+  ]
+}

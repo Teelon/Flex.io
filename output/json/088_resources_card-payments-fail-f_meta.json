@@ -1,0 +1,15 @@
+{
+  "url": "https://flexpay.io/resources/card-payments-fail-for-many-reasons/",
+  "filename": "088_resources_card-payments-fail-f.md",
+  "title": "Card Payments Fail for Many Reasons",
+  "summary": "This page explains why card payments fail, highlighting that many declines are false positives due to banks' fraud prevention measures. It details soft declines and hard declines, noting that up to 48% of involuntary churn is caused by failed payments, particularly impacting subscription businesses.",
+  "content_type": "other",
+  "importance_score": 7,
+  "key_points": [
+    "Many card payment declines are false positives, not actual fraud.",
+    "Banks prioritize preventing fraud over approving legitimate transactions, leading to false declines.",
+    "Subscription businesses are heavily impacted, with up to 25% of recurring transactions falsely declined.",
+    "Failed payments can cause up to 48% of involuntary customer churn.",
+    "There are two types of failed payments: soft declines and hard declines, both of which can be resolved."
+  ]
+}

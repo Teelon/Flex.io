@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/resources/guide-to-measuring-involuntary-churn-in-your-business/",
+  "filename": "090_resources_guide-to-measuring-i.md",
+  "title": "Guide to Measuring Involuntary Churn in Your Business",
+  "summary": "This guide provides a playbook for subscription businesses to identify, measure, and reduce involuntary churn, which is a significant source of customer loss due to failed payments. It covers understanding false declines, the impact of failed payments, and technology/best practices to mitigate this issue.",
+  "content_type": "other",
+  "importance_score": 8,
+  "key_points": [
+    "Involuntary churn is a major cause of subscription losses.",
+    "Understanding failed payments and false declines is crucial.",
+    "Technology and best practices can reduce involuntary churn.",
+    "The page includes a calculator to estimate revenue and customer growth with FlexPay's Invisible Recovery."
+  ]
+}

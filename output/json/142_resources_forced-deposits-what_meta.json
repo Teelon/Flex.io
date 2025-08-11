@@ -1,0 +1,14 @@
+{
+  "url": "https://flexpay.io/resources/forced-deposits-what-are-they-and-why-should-you-avoid-this-practice/",
+  "filename": "142_resources_forced-deposits-what.md",
+  "title": "Forced Deposits: What are they and why should you avoid this practice?",
+  "summary": "This page explains the practice of forced deposits, a method of recovering failed payments by pre-authorizing a lower amount and then capturing the full payment using the same authorization code. It highlights the significant risks associated with this practice, including fines, increased churn, and potential loss of merchant accounts.",
+  "content_type": "other",
+  "importance_score": 7,
+  "key_points": [
+    "Forced deposits involve pre-authorizing a lower amount and then capturing the full payment using the same code.",
+    "This practice is risky and can lead to fines from card networks, increased customer churn, and loss of merchant accounts.",
+    "While permitted in specific cases for additional charges, it's not intended for authorizing higher amounts than initially agreed upon.",
+    "The page provides an example of a wine subscription service using forced deposits incorrectly."
+  ]
+}

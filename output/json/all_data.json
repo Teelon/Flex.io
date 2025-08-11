@@ -1,0 +1,75 @@
+{
+  "total_pages": 5,
+  "pages": [
+    {
+      "url": "https://flexpay.io/blog/tag/best-in-class/",
+      "filename": "001_blog_tag_best-in-class_.md",
+      "title": "Tag: Best in Class",
+      "summary": "This page is a blog tag archive for 'Best in Class' content on FlexPay. It features an article discussing chargebacks and how FlexPay aims to prevent them from increasing, along with a revenue and customer recovery calculator.",
+      "content_type": "other",
+      "importance_score": 6,
+      "key_points": [
+        "FlexPay blog archive for 'Best in Class' tag.",
+        "Article addresses concerns about chargeback increases with FlexPay.",
+        "Features a Revenue and Customer Recovery Calculator.",
+        "FlexPay focuses on recovering failed payments and minimizing churn."
+      ]
+    },
+    {
+      "url": "https://flexpay.io/blog/tag/dating-apps/",
+      "filename": "002_blog_tag_dating-apps_.md",
+      "title": "Tag: dating apps - FlexPay",
+      "summary": "This page from FlexPay discusses the role of dating apps in modern romance and how FlexPay's invisible recovery solution helps prevent customer churn by recovering failed payments. It highlights the importance of payment recovery for subscription-based dating services.",
+      "content_type": "other",
+      "importance_score": 7,
+      "key_points": [
+        "FlexPay offers solutions for dating apps to recover failed payments.",
+        "Failed payment recovery is crucial for minimizing customer churn in subscription services.",
+        "The page links to a blog post about the history of dating technology and payment recovery.",
+        "FlexPay provides a revenue and customer recovery calculator."
+      ]
+    },
+    {
+      "url": "https://flexpay.io/blog/tag/failed-payment-recovery/",
+      "filename": "003_blog_tag_failed-payment-re.md",
+      "title": "Tag: failed payment recovery",
+      "summary": "This page is a blog tag archive for 'failed payment recovery' on FlexPay. It highlights how FlexPay's Invisible Recovery can help businesses recover revenue and retain customers by addressing failed payments, particularly in industries like online dating.",
+      "content_type": "other",
+      "importance_score": 7,
+      "key_points": [
+        "FlexPay offers a Revenue and Customer Recovery Calculator to estimate potential gains.",
+        "The blog post discusses the history of dating technology and the role of failed payment recovery.",
+        "FlexPay's Invisible Recovery aims to minimize customer churn and accelerate revenue growth.",
+        "The page lists various FlexPay products, solutions, and resources related to payment recovery."
+      ]
+    },
+    {
+      "url": "https://flexpay.io/blog/tag/how-flexpay-works/",
+      "filename": "004_blog_tag_how-flexpay-works.md",
+      "title": "Tag: How FlexPay Works",
+      "summary": "This page lists blog posts related to how FlexPay operates, including its revenue recovery calculator, client onboarding, integration with customer service teams, and its role as middleware. It highlights FlexPay's focus on client care and its unique position in the payment processing ecosystem.",
+      "content_type": "other",
+      "importance_score": 7,
+      "key_points": [
+        "FlexPay offers a revenue and customer recovery calculator.",
+        "FlexPay acts as middleware between a CRM and payment gateways.",
+        "FlexPay complements, rather than replaces, customer service teams.",
+        "The blog posts cover topics like single sale transaction recovery and client expectations."
+      ]
+    },
+    {
+      "url": "https://flexpay.io/blog/tag/online-dating/",
+      "filename": "005_blog_tag_online-dating_.md",
+      "title": "Tag: online dating",
+      "summary": "This page is a blog tag archive for 'online dating' on FlexPay. It features an article discussing the history of dating technology and the role of failed payment recovery in subscriber retention. The page also includes a calculator for estimating revenue and customer growth with FlexPay's Invisible Recovery solution.",
+      "content_type": "other",
+      "importance_score": 7,
+      "key_points": [
+        "Blog archive for 'online dating' content",
+        "Article on dating technology history and payment recovery",
+        "FlexPay Revenue and Customer Recovery Calculator",
+        "Focus on recovering failed payments and minimizing churn"
+      ]
+    }
+  ]
+}

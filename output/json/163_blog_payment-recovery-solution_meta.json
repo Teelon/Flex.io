@@ -1,0 +1,15 @@
+{
+  "url": "https://flexpay.io/blog/payment-recovery-solution-questions/",
+  "filename": "163_blog_payment-recovery-solution.md",
+  "title": "Common Questions When Looking For a Payment Recovery Solution",
+  "summary": "This page addresses common questions potential clients have when seeking a payment recovery solution. It clarifies FlexPay's role as middleware, its impact on chargeback rates, and its ability to handle both continuity and straight sale transactions.",
+  "content_type": "other",
+  "importance_score": 7,
+  "key_points": [
+    "FlexPay acts as middleware, not a payment gateway.",
+    "FlexPay does not increase chargeback rates.",
+    "FlexPay can accommodate both continuity and straight sale transactions.",
+    "FlexPay offers various CRM integrations and webhook options.",
+    "The page includes a calculator for estimating revenue and customer growth."
+  ]
+}
